@@ -12,6 +12,7 @@ struct EgglessApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            
         }
     }
 }
